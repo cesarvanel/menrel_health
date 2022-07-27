@@ -1,0 +1,19 @@
+
+[{
+    "nom_patient" : "samen",
+    "age_patient" :  15 ,
+    "mot_passe_patient": "1242315264523156", 
+    "telephone" : "44454545454", 
+    "email_patient": "samen@gmail.com"
+},
+
+{
+    "email_patient" : "samen@gmail.com", 
+    "mot_passe_patient" : "1242315264523156"
+},
+{
+    "nom_medecin" : "zambou",
+    "mot_passe_medecin": "123456789"
+}
+
+]
